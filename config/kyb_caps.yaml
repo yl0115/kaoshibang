@@ -1,0 +1,13 @@
+platformName: Android
+deviceName: 127.0.0.1:62001
+platformVersion: 5.1.1
+udid: 174e49cd7d32
+app: kaoyan3.1.0.apk
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+automationName: uiautomator2
+ip: 127.0.0.1
+#port: 4723
